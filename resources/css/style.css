@@ -253,7 +253,7 @@ footer .container{
 /*----------------------------------------------*/
 
 /* MOBILE PHONE QUERY */
-@media only screen and (max-width: 470px) and (max-width: 1080px) {
+@media only screen and (max-width: 1000px) {
 
 .banner-img{
   height: 15rem;
